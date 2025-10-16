@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Men's Pro Long Sleeve",
+    "description": "Performance Shirt in DezTek Lite",
+    "status": "Draft",
+    "inventory": "0 In Stock",
+    "channels": 5,
+    "markets": 2,
+    "category": "Activewear Tops",
+    "vendor": "Encore",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Front_1ed7cb93-160a-4de1-b9f4-bcd972e84b89_1024x1024.jpg?v=1728988045",
+    "variants": []
+  },
+  {
+    "name": "Women's Pro Long Sleeve",
+    "description": "Performance Shirt in DezTek Lite",
+    "status": "Active",
+    "inventory": "73 In Stock For 5 Variants",
+    "channels": 6,
+    "markets": 3,
+    "category": "Activewear Tops",
+    "vendor": "Encore",
+    "image": "https://www.encorecustom.com/cdn/shop/products/Men_sCollegiateReversible_f15ffda3-2690-44c0-b9d9-c98ca9900984_1024x1024.jpg?v=1681921404",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Black", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "White", "size": "", "stock": "20 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Men's Short Sleeve",
+    "description": "Performance Shirt in CoolTech Fabric",
+    "status": "Active",
+    "inventory": "68 In Stock 18 Variants",
+    "channels": 7,
+    "markets": 4,
+    "category": "Activewear Tops",
+    "vendor": "NextGen",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Men_sCottonTee-Grey_1024x1024.jpg?v=1685683016",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Women's Tank Top",
+    "description": "Breathable Fabric",
+    "status": "Active",
+    "inventory": "24 In Stock 22 Variants",
+    "channels": 9,
+    "markets": 1,
+    "category": "Activewear Tops",
+    "vendor": "Evergreen",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Men_sCottonTee-Plum_1024x1024.jpg?v=1685683076",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Black", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Men's Full Zip",
+    "description": "Windbreaker Jacket",
+    "status": "Active",
+    "inventory": "34 In Stock 12 Variants",
+    "channels": 4,
+    "markets": 2,
+    "category": "Outerwear",
+    "vendor": "Element",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Front_79472d2c-de5f-4c83-a9ac-92b08dc4a17c_1024x1024.jpg?v=1741980457",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Women's Lightweight",
+    "description": "Hoodie in Soft Fleece",
+    "status": "Active",
+    "inventory": "18 In Stock 6 Variants",
+    "channels": 3,
+    "markets": 5,
+    "category": "Outerwear",
+    "vendor": "Element",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Men_sBambooPocketT-Greyw-BluePatternPocket_1024x1024.jpg?v=1685682320",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Men's Compression",
+    "description": "Sleeve Top",
+    "status": "Active",
+    "inventory": "45 In Stock 2 Variants",
+    "channels": 8,
+    "markets": 7,
+    "category": "Activewear Tops",
+    "vendor": "Power",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Men_sCottonTee-Plum_1024x1024.jpg?v=1685683076",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Black", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "White", "size": "", "stock": "20 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Women's Running",
+    "description": "Shorts with Pockets",
+    "status": "Active",
+    "inventory": "23 In Stock 9 Variants",
+    "channels": 11,
+    "markets": 3,
+    "category": "Activewear Bottoms",
+    "vendor": "Swift",
+    "image": "https://www.encorecustom.com/cdn/shop/files/PandaVest-Green_1024x1024.jpg?v=1685684552",
+    "variants": [
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Men's Jagger",
+    "description": "Pants in Performance Fabric",
+    "status": "Active",
+    "inventory": "98 In Stock 25 Variants",
+    "channels": 12,
+    "markets": 8,
+    "category": "Activewear Bottoms",
+    "vendor": "Swift",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Women_sBambooPocketT-Black_1024x1024.jpg?v=1684549290",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Men's Full Zip",
+    "description": "Windbreaker Jacket",
+    "status": "Active",
+    "inventory": "34 In Stock 12 Variants",
+    "channels": 4,
+    "markets": 2,
+    "category": "Outerwear",
+    "vendor": "Element",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Front_79472d2c-de5f-4c83-a9ac-92b08dc4a17c_1024x1024.jpg?v=1741980457",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Women's Lightweight",
+    "description": "Hoodie in Soft Fleece",
+    "status": "Active",
+    "inventory": "18 In Stock 6 Variants",
+    "channels": 3,
+    "markets": 5,
+    "category": "Outerwear",
+    "vendor": "Element",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Men_sBambooPocketT-Greyw-BluePatternPocket_1024x1024.jpg?v=1685682320",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Men's Compression",
+    "description": "Sleeve Top",
+    "status": "Active",
+    "inventory": "45 In Stock 2 Variants",
+    "channels": 8,
+    "markets": 7,
+    "category": "Activewear Tops",
+    "vendor": "Power",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Men_sCottonTee-Plum_1024x1024.jpg?v=1685683076",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Black", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "White", "size": "", "stock": "20 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Women's Running",
+    "description": "Shorts with Pockets",
+    "status": "Active",
+    "inventory": "23 In Stock 9 Variants",
+    "channels": 11,
+    "markets": 3,
+    "category": "Activewear Bottoms",
+    "vendor": "Swift",
+    "image": "https://www.encorecustom.com/cdn/shop/files/PandaVest-Green_1024x1024.jpg?v=1685684552",
+    "variants": [
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  },
+  {
+    "name": "Men's Jagger",
+    "description": "Pants in Performance Fabric",
+    "status": "Active",
+    "inventory": "98 In Stock 25 Variants",
+    "channels": 12,
+    "markets": 8,
+    "category": "Activewear Bottoms",
+    "vendor": "Swift",
+    "image": "https://www.encorecustom.com/cdn/shop/files/Women_sBambooPocketT-Black_1024x1024.jpg?v=1684549290",
+    "variants": [
+      {"color": "Aqua", "size": "", "stock": "23 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Blue", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0},
+      {"color": "Green", "size": "", "stock": "10 In Stock For", "price": "68.00$", "discount": 0}
+    ]
+  }
+]

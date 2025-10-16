@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Dashboard",
+        "icon": "/images/dashboard.svg",
+        "route": "dashboard"
+    },
+    {
+        "title": "Orders",
+        "icon": "/images/orders.svg",
+        "route": "orders"
+    },
+    {
+        "title": "Inventory",
+        "icon": "/images/inventory.svg",
+        "route": "inventory"
+    },
+    {
+        "title": "Payments",
+        "icon": "/images/payments.svg",
+        "route": "payments"
+    },
+    {
+        "title": "Customers",
+        "icon": "/images/customers.svg",
+        "route": "customers"
+    },
+    {
+        "title": "Reports",
+        "icon": "/images/reports.svg",
+        "route": "reports"
+    },
+    {
+        "title": "Settings",
+        "icon": "/images/settings.svg",
+        "route": "settings"
+    }
+]
